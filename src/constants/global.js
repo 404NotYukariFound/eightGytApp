@@ -1,4 +1,5 @@
 export const BASEURL = 'https://www.juntaitec.cn/wechatapp/images/'
+export const APIBASEURL = 'https://www.juntaitec.cn/api'
 
 export const GYT = 'GYT';						//国医堂
 export const YYREGISTRATION = 'YY_REGISTRATION';// 预约挂号

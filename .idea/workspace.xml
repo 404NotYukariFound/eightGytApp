@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a13d107b-81d1-427b-b625-d0ffc2297c24" name="Default Changelist" comment="">
+    <list default="true" id="a13d107b-81d1-427b-b625-d0ffc2297c24" name="Default Changelist" comment="1.做好了首页，今日热点，我的界面">
+      <change afterPath="$PROJECT_DIR$/src/pages/myRecord/recordExpense.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/myRecord/recordExpense.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/userLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/userLogin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/myRecord/healthManage/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/myRecord/healthManage/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/myRecord/myData/myData.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/myRecord/myData/myData.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/myRecord/myPatient/PatientManagerList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/myRecord/myPatient/PatientManagerList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/myRecord/myRegistration/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/myRecord/myRegistration/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/myRecord/myRegistration/registration.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/myRecord/myRegistration/registration.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/myRecord/wxLogin.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/myRecord/wxLogin.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,22 +43,41 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="1wFPoTzQ2FJGGoaNbEgT3w9h2mI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/myRecord/medicalExpenses" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.stylelint" value="F:\Programming area\Ideal\IntelliJ IDEA 2020.3\IdealWebProjects\gytApp\node_modules\stylelint" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="ts.external.directory.path" value="F:\Programming area\Ideal\IntelliJ IDEA 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Programming area\Ideal\IntelliJ IDEA 2020.3\IdealWebProjects\gytApp\src\pages\myRecord\medicalExpenses" />
+      <recent name="F:\Programming area\Ideal\IntelliJ IDEA 2020.3\IdealWebProjects\gytApp\src\pages\myRecord\myPatient" />
+      <recent name="F:\Programming area\Ideal\IntelliJ IDEA 2020.3\IdealWebProjects\gytApp\src\pages\myRecord" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Programming area\Ideal\IntelliJ IDEA 2020.3\IdealWebProjects\gytApp\src\pages\myRecord" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,7 +88,24 @@
       <option name="presentableId" value="Default" />
       <updated>1628051537660</updated>
       <workItem from="1628051538850" duration="1189000" />
+      <workItem from="1628159848877" duration="435000" />
+      <workItem from="1628181642033" duration="392000" />
+      <workItem from="1628258095021" duration="5400000" />
+      <workItem from="1628300474380" duration="23992000" />
+      <workItem from="1628393380335" duration="10752000" />
+      <workItem from="1628473057349" duration="3421000" />
+      <workItem from="1628561247813" duration="8744000" />
+      <workItem from="1628581152524" duration="8619000" />
+      <workItem from="1628589804033" duration="55000" />
     </task>
+    <task id="LOCAL-00001" summary="1.做好了首页，今日热点，我的界面">
+      <created>1628160115299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628160115299</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +121,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1.做好了首页，今日热点，我的界面" />
+    <MESSAGE value="1.动态获取数据&#10;2.实现code登录" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.动态获取数据&#10;2.实现code登录" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
